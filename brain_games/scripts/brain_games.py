@@ -1,3 +1,4 @@
+#!/usr/bin/env pyhton3
 def main():
 	print("Welcome to the Brain Games!")
 
