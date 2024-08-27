@@ -14,3 +14,6 @@ https://asciinema.org/a/cyPqjeTu1p1bltt7JUrTJkIVD
 
 ### asciinema brain-prog recording
 https://asciinema.org/a/GVvofgQoNWKguZgl0bL3DSUZI
+
+### asciinema brain-prime recording
+https://asciinema.org/a/pEQdr6OcUwCFUqkazIIrcSCTx

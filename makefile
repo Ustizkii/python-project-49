@@ -10,6 +10,8 @@ brain-nod:
 	poetry run brain-nod
 brain-prog:
 	poetry run brain-prog
+brain-prime:
+	poetry run brain-prime
 build:
 	poetry build
 publish:
