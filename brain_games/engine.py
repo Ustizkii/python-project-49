@@ -6,7 +6,7 @@ def run_game(game_logic, instructions):
     name = input("May I have your name? ")
     print(f"Hello, {name}!")
     print(instructions)
-    
+
     for _ in range(3):
         question, correct_answer = game_logic()
         print(f"Question: {question}")

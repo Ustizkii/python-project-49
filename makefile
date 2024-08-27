@@ -8,6 +8,8 @@ brain-calc:
 	poetry run brain-calc
 brain-nod:
 	poetry run brain-nod
+brain-prog:
+	poetry run brain-prog
 build:
 	poetry build
 publish:

@@ -11,3 +11,6 @@ https://asciinema.org/connect/3b0e1b29-292f-4b05-8657-cef9eda7ba93
 
 ### asciinema brain-nod recording
 https://asciinema.org/a/cyPqjeTu1p1bltt7JUrTJkIVD
+
+### asciinema brain-prog recording
+https://asciinema.org/a/GVvofgQoNWKguZgl0bL3DSUZI
