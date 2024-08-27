@@ -1,21 +1,21 @@
 #!/usr/bin/env python3
-import random
 
 
-def run_game(game_logic):
+def run_game(game_logic, instructions):
     print("Welcome to the Brain Games!")
     name = input("May I have your name? ")
     print(f"Hello, {name}!")
-
+    print(instructions)
+    
     for _ in range(3):
         question, correct_answer = game_logic()
         print(f"Question: {question}")
-        answer = input("Your answer: ")
+        user_answer = input("Your answer: ")
 
-        if answer == correct_answer:
+        if user_answer == correct_answer:
             print("Correct!")
         else:
-            print(f"'{answer}' is wrong answer ;(. Correct answer was '{correct_answer}'.")
+            print(f"'{user_answer}' is wrong answer ;(. Correct answer was '{correct_answer}'.")
             print(f"Let's try again, {name}!")
             return
 
