@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 from brain_games.engine import run_game
-from brain_games.games import calc
+from brain_games.games import gcd
 
 
 def main():
     """
-    Запускает игру "Калькулятор"
+    Запускает игру "НОД"
     """
-    run_game(calc)
+    run_game(gcd)
 
 
 if __name__ == "__main__":
