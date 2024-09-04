@@ -18,4 +18,4 @@ https://asciinema.org/a/GVvofgQoNWKguZgl0bL3DSUZI
 ### asciinema brain-prime recording
 https://asciinema.org/a/pEQdr6OcUwCFUqkazIIrcSCTx
 
-<a href="https://asciinema.org/a/uZzUeRwPvj7ZA07W7nuEfrV0u" target="_blank"><img src="https://asciinema.org/a/your_record_id.svg" /></a>
+<a href="https://asciinema.org/a/uZzUeRwPvj7ZA07W7nuEfrV0u" target="_blank"><img src="https://asciinema.org/a/uZzUeRwPvj7ZA07W7nuEfrV0u" /></a>
