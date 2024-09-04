@@ -18,5 +18,17 @@ https://asciinema.org/a/GVvofgQoNWKguZgl0bL3DSUZI
 ### asciinema brain-prime recording
 https://asciinema.org/a/pEQdr6OcUwCFUqkazIIrcSCTx
 
+### asciinema brain-even recording
 <a href="https://asciinema.org/a/uZzUeRwPvj7ZA07W7nuEfrV0u" target="_blank"><img src="https://asciinema.org/a/uZzUeRwPvj7ZA07W7nuEfrV0u.svg" /></a>
 
+### asciinema brain-calc recording
+<a href="https://asciinema.org/connect/3b0e1b29-292f-4b05-8657-cef9eda7ba93" target="_blank"><img src="https://asciinema.org/connect/3b0e1b29-292f-4b05-8657-cef9eda7ba93.svg" /></a>
+
+### asciinema brain-nod recording
+<a href="https://asciinema.org/a/cyPqjeTu1p1bltt7JUrTJkIVD" target="_blank"><img src="https://asciinema.org/a/cyPqjeTu1p1bltt7JUrTJkIVD.svg" /></a>
+
+### asciinema brain-prog recording
+<a href="https://asciinema.org/a/GVvofgQoNWKguZgl0bL3DSUZI" target="_blank"><img src="https://asciinema.org/a/GVvofgQoNWKguZgl0bL3DSUZI.svg" /></a>
+
+### asciinema brain-prime recording
+<a href="https://asciinema.org/a/pEQdr6OcUwCFUqkazIIrcSCTx" target="_blank"><img src="https://asciinema.org/a/pEQdr6OcUwCFUqkazIIrcSCTx.svg" /></a>
