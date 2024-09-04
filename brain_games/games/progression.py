@@ -1,6 +1,6 @@
 import random
 
-INSTRUCTIONS = "What number is missing in the progression?"
+INSTRUCTIONS = 'What number is missing in the progression?'
 
 
 def game_logic():
